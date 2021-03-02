@@ -1,4 +1,4 @@
-/* PRACTICE MAKES PERFECT */
+/*   It counts the connected components of a graph and out nodes in the connected components  */
 
 #include<bits/stdc++.h>
 
@@ -62,6 +62,7 @@ int main()
 }
 
 /*
+SAMPLE TEST
 7 4
 1 0
 2 0

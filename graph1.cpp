@@ -1,4 +1,4 @@
-/*   It counts the connected components of a graph and out nodes in the connected components  */
+/*   It counts the connected components of a graph and print nodes in the connected components  */
 
 #include<bits/stdc++.h>
 

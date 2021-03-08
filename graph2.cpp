@@ -1,4 +1,4 @@
-/* Height of the tree */
+/* Depth of the tree */
 
 #include<bits/stdc++.h>
 
